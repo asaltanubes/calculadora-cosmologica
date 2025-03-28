@@ -1,0 +1,12 @@
+
+constante_hubble = 67.36  # En km/s/Mpc
+densidad_materia=0.3153
+densidad_radiacion=0
+densidad_energia_oscura= 0.6847
+
+
+rango_factor_escala = [-13.8, 10] # giga años
+
+t_horizonte_particulas = 0
+z_max_dist = 15
+z_max_edad = 100
